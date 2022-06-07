@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bikramjoy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email bikramjoychatterjee@gmail.com
 
