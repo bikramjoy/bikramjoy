@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bikramjoy
-- 👀 I’m interested in Web Development, data structures
-- 🌱 I’m currently learning data structures
+- 👀 I’m interested in Web Development, data structures and ML.
+- 🌱 I’m currently learning data structures, doing projects on front-end web development and learning data science.
 - 📫 Email bikramjoychatterjee@gmail.com
